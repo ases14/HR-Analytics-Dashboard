@@ -12,3 +12,23 @@ The primary goal of this project is to build an interactive and visually appeali
 
 ![Screenshot 2024-11-30 000749](https://github.com/user-attachments/assets/1381b5f8-9099-40b6-8905-9400f9065f39)
 
+## Features
+### Key Metrics:
+
+- Total number of employees.
+- Number of employees who have left (attrition count).
+- Attrition rate percentage.
+- Average age, salary, and years at the company of employees.
+
+### Demographic Analysis:
+- Attrition breakdown by gender.
+- Attrition distribution across different education fields.
+
+### Attrition Trends:
+- Attrition by age group and salary slab.
+- Attrition patterns based on years at the company.
+
+### Job Role Insights:
+- Attrition rates across various job roles.
+- A tabular summary of job roles and their attrition counts.
+
