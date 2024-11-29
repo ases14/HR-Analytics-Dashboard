@@ -6,7 +6,7 @@ Employee attrition is a critical challenge for organizations as it impacts produ
 ## Objective
 The primary goal of this project is to build an interactive and visually appealing HR Analytics Dashboard that highlights key metrics and trends related to employee attrition. The dashboard enables HR professionals to:
 
--Analyze the attrition rate and its impact on the organization.
--Understand the influence of factors such as age, gender, education field, salary, job role, and years at the company on attrition.
--Identify high-risk groups and take proactive measures to improve retention.
+- Analyze the attrition rate and its impact on the organization.
+- Understand the influence of factors such as age, gender, education field, salary, job role, and years at the company on attrition.
+- Identify high-risk groups and take proactive measures to improve retention.
 
