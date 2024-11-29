@@ -10,3 +10,5 @@ The primary goal of this project is to build an interactive and visually appeali
 - Understand the influence of factors such as age, gender, education field, salary, job role, and years at the company on attrition.
 - Identify high-risk groups and take proactive measures to improve retention.
 
+  https://github.com/user-attachments/assets/1381b5f8-9099-40b6-8905-9400f9065f39
+
