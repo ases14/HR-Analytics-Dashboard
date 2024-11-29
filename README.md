@@ -23,12 +23,16 @@ The primary goal of this project is to build an interactive and visually appeali
 ### Demographic Analysis:
 - Attrition breakdown by gender.
 - Attrition distribution across different education fields.
+![Screenshot 2024-11-30 010703](https://github.com/user-attachments/assets/b47e2e1f-8453-45b1-bd26-94ab9f1161b7)
 
 ### Attrition Trends:
 - Attrition by age group and salary slab.
 - Attrition patterns based on years at the company.
+![Screenshot 2024-11-30 010735](https://github.com/user-attachments/assets/0e22b838-bd99-408c-afba-769e6f63a2d3)
 
 ### Job Role Insights:
 - Attrition rates across various job roles.
 - A tabular summary of job roles and their attrition counts.
+![Screenshot 2024-11-30 010810](https://github.com/user-attachments/assets/67b7be69-73d6-4661-ba8c-74143fbf8519)
+
 
